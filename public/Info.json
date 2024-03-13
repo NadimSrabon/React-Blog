@@ -2,7 +2,7 @@
     {
       "id": 1,
       "cover": "https://i.ibb.co/8mbqJCW/online-blog.jpg",
-      "title": "The Adventure Begins",
+      "title": "How to get your first job as a self-taught programmer",
       "author": "John Doe",
       "author_img": "https://i.ibb.co/Ycvz07Y/austin-distel-7uo-Mmz-Pd2-JA-unsplash.jpg",
       "posted_date": "2024-03-12",
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "cover": "https://i.ibb.co/2g3mRXk/office-table-with-cup-coffee-keyboard-notepad.jpg",
-      "title": "Coding Essentials",
+      "title": "How to get your first job as a self-taught programmer",
       "author": "Jane Smith",
       "author_img": "https://i.ibb.co/h8H4RXW/austin-distel-Vv-Acr-Va56fc-unsplash.jpg",
       "posted_date": "2024-03-10",
@@ -22,7 +22,7 @@
     {
       "id": 3,
       "cover": "https://i.ibb.co/jkRZpgH/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
-      "title": "Healthy Living",
+      "title": "How to get your first job as a self-taught programmer",
       "author": "Alice Johnson",
       "author_img": "https://i.ibb.co/NY67bGz/amir-esrafili-MHm-X3f-P7-OVk-unsplash.jpg",
       "posted_date": "2024-03-08",
@@ -32,7 +32,7 @@
     {
       "id": 4,
       "cover": "https://i.ibb.co/JKTJWqn/daria-nepriakhina-x-Y55b-L5m-ZAM-unsplash.jpg",
-      "title": "Travel Diaries",
+      "title": "Python Programming: Unlocking the Potential of this Versatile Language",
       "author": "Mark Anderson",
       "author_img": "https://i.ibb.co/xf5hZrK/icons8-team-m0o-STE-Mjs-I-unsplash.jpg",
       "posted_date": "2024-03-05",
@@ -42,7 +42,7 @@
     {
       "id": 5,
       "cover": "https://i.ibb.co/djgZYf8/janko-ferlic-sf-L-QOnmy00-unsplash.jpg",
-      "title": "Cooking Delights",
+      "title": "Mastering OOP: The Key to Efficient and Scalable Software Development",
       "author": "Emily White",
       "author_img": "https://i.ibb.co/xf5hZrK/icons8-team-m0o-STE-Mjs-I-unsplash.jpg",
       "posted_date": "2024-03-02",
