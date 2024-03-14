@@ -9,10 +9,24 @@ function App() {
 
   const [bookmark , setBookmark] = useState([]);
 
+  const [readingTime , setReadingTime] = useState(0);
+
 
   function handleBookmark(blog){
 
-    console.log("ok click hoise");
+    const newBookmark = [...bookmark,blog]
+    setBookmark(newBookmark)
+
+  }
+
+  function handleReading(time ,id){
+
+    const newReadingTime = readingTime + time;
+    setReadingTime(newReadingTime)
+
+    const remainingBookmarks = bookmark.filter(bookmark => bookmark.id !== id)
+
+    setBookmark(remainingBookmarks)
 
   }
 
@@ -21,8 +35,8 @@ function App() {
     <Header></Header>
 
     <div className='md:flex max-w-6xl mx-auto'>
-    <Blogs handleBookmark={handleBookmark}></Blogs>
-    <Bookmarks></Bookmarks>
+    <Blogs handleBookmark={handleBookmark} handleReading={handleReading}></Blogs>
+    <Bookmarks bookmark={bookmark} readingTime={readingTime}></Bookmarks>
     </div>
     
     </>
